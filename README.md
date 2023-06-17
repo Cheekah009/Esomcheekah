@@ -1,4 +1,4 @@
-# Esomcheekah
+# Esom Chikaodinaka
 Bank App UI Design for Veegil Media
 By Esom Chikaodinaka
 
